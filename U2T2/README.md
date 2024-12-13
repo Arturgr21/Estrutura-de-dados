@@ -35,3 +35,4 @@ uma arvore binaria gerada como exemplo usado no notebook.
 - Comparação com listas: Compara o desempenho do algoritmo usando listas ordenadas como estrutura de dados
 - Gráfico
   
+   <img src="https://github.com/user-attachments/assets/8937b579-3a3f-4adb-b4d4-bc3d6ba6acab" alt="">
