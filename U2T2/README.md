@@ -24,3 +24,14 @@ uma arvore binaria gerada como exemplo usado no notebook.
 ## Grafico
  Apresenta um grafico gerado pelo dados aleatorios estabelecidos e seu intervalo de confiança, estabelecendo o gráfico com seu tempo de execução.
  
+ <img src="https://github.com/user-attachments/assets/6a8aa6df-f4e8-4738-9596-3bf289fbed29" alt="">
+
+## Solver Closest
+ O objetivo deste algoritmo é encontrar o valor mais próximop de um numero-alvo dentro de um BTS
+ 
+### Neste algoritimo temos semelhança com o codigo anterior tendo implementado as seguintes cedulas.
+- Geração de Dados : Cria árvores de busca binária (BST) balanceadas com tamanhos variados para os testes.
+- Avaliação de desempenho: Medimos o tempo médio e intervalo de confiança para o algoritmo findClosestValue nas árvores geradas
+- Comparação com listas: Compara o desempenho do algoritmo usando listas ordenadas como estrutura de dados
+- Gráfico
+  
