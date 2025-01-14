@@ -3,4 +3,5 @@
 - Abaixo vai estar presente grafos que mostra a interligação entres os pontos selecionados. Feito pelo algoritimo dijkstra com Min heap e OSMNx.
 
   -Midway para Natal Shopping
-  <img src="https://github.com/user-attachments/assets/5887e6aa-b0a6-46ef-a889-f2c2c3282130" alt="BST">
+
+   <img src="https://github.com/user-attachments/assets/5887e6aa-b0a6-46ef-a889-f2c2c3282130" alt="BST">
