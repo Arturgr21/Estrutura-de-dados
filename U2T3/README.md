@@ -41,3 +41,18 @@
    - Arena das Dunas para Praia Shopping
 
    <img src="https://github.com/user-attachments/assets/2afa7b28-e389-43a3-8a9b-08223bb76b5e" alt="BST">
+
+## O principal objetivo deste trabalho além de elaborar os grafos, é abordar a comparação entre o modelo do dijstra e networkx.  
+E isso foi elaborado no marquivo notebook obtendo os seguintes resultados.
+
+  <img src="https://github.com/user-attachments/assets/a1541bd4-167a-4227-aff7-2967d5d18a7b" alt="BST">
+
+  Com base nestes resultado, podemos concluir que as distâncias calculadas pela implementação manual do algoritmo de Dijkstra são iguais às do NetworkX para todos os nós acessíveis (nós de 0 a 5). Para os nós inalcançáveis (nós 6, 7 e 8), ambas as abordagens retornaram inf corretamente.  
+  Os caminhos reconstruídos pela implementação manual também são iguais aos do NetworkX para os nós acessíveis.   
+  Apresentando um  Tempo de execução:  
+Manual: 0.000557 segundos  
+NetworkX: 0.002133 segundos  
+
+  Por final temos as distancias entres os 10 detinos em Km.  
+
+  <img src="https://github.com/user-attachments/assets/18b6e265-9311-45ab-ba05-c33208813da9" alt="BST">
