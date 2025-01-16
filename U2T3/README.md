@@ -68,5 +68,7 @@ Isso é especialmente útil para empresas de turismo ou para a prefeitura ao org
 
 Em conclusão, este trabalho demonstra a força dos algoritmos em grafos na solução de problemas reais, como o planejamento de rotas e infraestrutura. Através de ferramentas como OSMnx e NetworkX, foi possível modelar e resolver problemas urbanos complexos, gerando insights úteis para planejamento urbano, turismo e transporte. O modelo é escalável e pode ser aplicado em outros contextos e localidades.  
 
-link de videos no Loom:
+link de videos no Loom: 
+- dijsktra https://www.loom.com/share/77507bc5d85542e99ae210ad340b810d
+- kruskal https://www.loom.com/share/8871f82aad884d5d90d863852c4d554c
 
