@@ -1,6 +1,7 @@
 # Trabalho Final  
 ## Dados e geração de graficos de portais de noticias e dados sobre final da copa do mundo de 2022  
 ### Este projeto utiliza técnicas de análise de dados e visualização de redes para explorar as interações e dinâmicas da final da Copa do Mundo de 2022 entre Argentina e França.  
+Faz presentem um podcast da plataforma NotebookLM para maior compreensão do trabalho: https://notebooklm.google.com/notebook/6dd3516a-26ed-4a03-93c3-61646baf36ca/audio
 
   # Descrição do Projeto  
    O objetivo do trabalho é analisar o impacto de jogadores-chave, como Lionel Messi e Mbappé, e as relações entre os jogadores durante o jogo. O projeto aplica diferentes ferramentas e métricas para revelar padrões e insights que destacam as estratégias e o desempenho em campo.  
